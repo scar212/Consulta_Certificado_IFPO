@@ -6,3 +6,4 @@ Es una consulta en PHP que se realiza a través de la búsqueda de  alguna opci�
 3.  N° Certificado
 4. Cédula
 Dentro de una Base de Datos MySQL
+Link : https://ifpo.es/consulta/index.php
